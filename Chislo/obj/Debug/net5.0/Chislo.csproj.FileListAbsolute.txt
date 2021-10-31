@@ -1,0 +1,16 @@
+C:\Users\nvrsk\Desktop\VirtualStudio\Par chislo\Chislo\Chislo\bin\Debug\net5.0\Chislo.exe
+C:\Users\nvrsk\Desktop\VirtualStudio\Par chislo\Chislo\Chislo\bin\Debug\net5.0\Chislo.deps.json
+C:\Users\nvrsk\Desktop\VirtualStudio\Par chislo\Chislo\Chislo\bin\Debug\net5.0\Chislo.runtimeconfig.json
+C:\Users\nvrsk\Desktop\VirtualStudio\Par chislo\Chislo\Chislo\bin\Debug\net5.0\Chislo.runtimeconfig.dev.json
+C:\Users\nvrsk\Desktop\VirtualStudio\Par chislo\Chislo\Chislo\bin\Debug\net5.0\Chislo.dll
+C:\Users\nvrsk\Desktop\VirtualStudio\Par chislo\Chislo\Chislo\bin\Debug\net5.0\ref\Chislo.dll
+C:\Users\nvrsk\Desktop\VirtualStudio\Par chislo\Chislo\Chislo\bin\Debug\net5.0\Chislo.pdb
+C:\Users\nvrsk\Desktop\VirtualStudio\Par chislo\Chislo\Chislo\obj\Debug\net5.0\Chislo.csproj.AssemblyReference.cache
+C:\Users\nvrsk\Desktop\VirtualStudio\Par chislo\Chislo\Chislo\obj\Debug\net5.0\Chislo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nvrsk\Desktop\VirtualStudio\Par chislo\Chislo\Chislo\obj\Debug\net5.0\Chislo.AssemblyInfoInputs.cache
+C:\Users\nvrsk\Desktop\VirtualStudio\Par chislo\Chislo\Chislo\obj\Debug\net5.0\Chislo.AssemblyInfo.cs
+C:\Users\nvrsk\Desktop\VirtualStudio\Par chislo\Chislo\Chislo\obj\Debug\net5.0\Chislo.csproj.CoreCompileInputs.cache
+C:\Users\nvrsk\Desktop\VirtualStudio\Par chislo\Chislo\Chislo\obj\Debug\net5.0\Chislo.dll
+C:\Users\nvrsk\Desktop\VirtualStudio\Par chislo\Chislo\Chislo\obj\Debug\net5.0\ref\Chislo.dll
+C:\Users\nvrsk\Desktop\VirtualStudio\Par chislo\Chislo\Chislo\obj\Debug\net5.0\Chislo.pdb
+C:\Users\nvrsk\Desktop\VirtualStudio\Par chislo\Chislo\Chislo\obj\Debug\net5.0\Chislo.genruntimeconfig.cache
